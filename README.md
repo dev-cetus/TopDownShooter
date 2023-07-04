@@ -16,7 +16,7 @@ Below is a list of the features I plan to add.
     <b>Added</b>
   </summary>
   <ul>
-    <li>Noting</li>
+    <li>Health point</li>
   </ul>
 </details>
 <details open>
@@ -26,7 +26,6 @@ Below is a list of the features I plan to add.
   <ul>
     <li>Pause menu</li>
     <li>Parameters</li>
-    <li>Health point</li>
   </ul>
 </details>
 
