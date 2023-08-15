@@ -16,7 +16,8 @@ Below is a list of the features I plan to add.
     <b>Added</b>
   </summary>
   <ul>
-    <li>Noting</li>
+    <li>Health point</li>
+    <li>Pause menu</li>
   </ul>
 </details>
 <details open>
@@ -24,9 +25,8 @@ Below is a list of the features I plan to add.
     <b>To Do</b>
   </summary>
   <ul>
-    <li>Pause menu</li>
     <li>Parameters</li>
-    <li>Health point</li>
+    <li>Score history</li>
   </ul>
 </details>
 
